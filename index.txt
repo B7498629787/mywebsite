@@ -1,0 +1,21 @@
+There are multiple matches for cloud, including a collection of water vapor in the sky and a computing service that provides on-demand access to resources: 
+A collection of water vapor in the sky
+A cloud is a visible mass of water droplets that form when air rises and cools, causing the water vapor in the air to condense. Clouds can be white and puffy or large and gray. 
+A computing service
+The cloud is a network of remote servers that store and manage data, run applications, and provide services over the internet. The cloud allows users to access computing resources, such as storage, databases, and software, without having to manage physical servers or run software on their own computers. 
+Cloud computing allows users to pay for what they use, and they can add or remove storage capacity on demand. Some cloud computing service models include:
+Infrastructure as a service: Provides compute and storage services
+Platform as a service: Provides an environment to build cloud apps
+Software as a service: Delivers apps as services 
+What is Cloud Computing?
+Cloud computing is the on-demand availability of computing resources (such as storage and infrastructure), as services over the in...
+
+Google Cloud
+What is the cloud? - Microsoft Azure
+The cloud—what is it? The cloud is a vast online storage space where people and businesses store their files and applications, acc...
+Microsoft Azure
+What is Cloud Storage? - AWS
+Cost effectiveness. With cloud storage, there is no hardware to purchase, no storage to provision, and no extra capital being used...
+
+Amazon Web Services
+Show all
